@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1562936039 source:d:\c programs\las\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+
